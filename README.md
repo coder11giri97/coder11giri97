@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **girishnakate19@gmail.com**
 
-<h3 align="left">Connect with me: 1) 9552637814  2) 9518939062 </h3>
+<h3 align="left">Connect with me: 1)9552637814   2)9518939062 </h3>
 <p align="left">
 </p>
 
