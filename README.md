@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder11giri97&label=Profile%20views&color=0e75b6&style=flat" alt="coder11giri97" /> </p>
 
-- 🌱 I’m currently learning **Express.js , REST APIs**
+- 🌱 I’m currently learning **Express.js , REST APIs , Microservices , Fastify.js , MongoDB , Python**
 
-- 💬 Ask me about **Javascript , Express.js**
+- 💬 Ask me about **Javascript , Express.js , REST APIs**
 
 - 📫 How to reach me **girishnakate19@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 1) 9552637814  2) 9518939062 </h3>
 <p align="left">
 </p>
 
